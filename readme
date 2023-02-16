@@ -1,0 +1,5 @@
+Credit- card fradualent detection is tough to predict as it is imbalanced dataset
+I have used Xgboost algorithm to predic the the fraud
+I have used kurtosis to test the distribution and log tranformed the columns whose kurtosis value is greater than than the 10
+The precision and recall is 0.90, 0.82 respectiviley
+The AUC score is 0.91
